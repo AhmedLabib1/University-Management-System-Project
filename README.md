@@ -12,6 +12,7 @@ This project is a **Graphical User Interface (GUI)** application built using **P
 ---
 
 ## **Project Structure**
+```
 University_Management_System GUI/
 │
 ├── main.py                      # Main application file
@@ -34,3 +35,4 @@ University_Management_System GUI/
 │   └── classrooms.py            # Classroom Management
 │
 └── __pycache__/                 # Python cache files
+```
